@@ -31,8 +31,7 @@ The introductory (week 0) related security considerations were given, starting w
 *What is Cloud Security?*
 Cybersecurity that protects the data, applications, and services associated with Cloud environments from both external and internal security threats.
 *Why care about Cloud Security?*
-Reducing impact of breach protecting networks, applications, services in cloud environments against malicious data theft and reducing the human error responsible for data leaks
-I went through the  steps: 
+Reducing impact of breach protecting networks, applications, services in cloud environments against malicious data theft and reducing the human error responsible for data leaks. 
 
 - *Step 1: Add MFA to root user.* 
 - *Step 2: Create an organization unit.*
