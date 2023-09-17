@@ -20,4 +20,5 @@ Here is the Conceptual design for the Cruddur app: https://lucid.app/lucidchart/
 ![Cruddur - Conceptual Diagram](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/f0863b9f-1354-41de-bae2-fe4d0551a895)
 # Chapter 2: Treasure Allocation: Navigating the Cloud Sea of Expenditure -  Spend Considerations$$: 
 https://youtu.be/OVw3RrlP-sI
+
 Here, I went through the billing part in the AWS console. Activated the Invoice delivery preferences to be sent to my root email address and Alert preferences for AWS Free Tier delivered to my root email address.
