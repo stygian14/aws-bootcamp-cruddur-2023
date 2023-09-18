@@ -39,4 +39,11 @@ Reducing impact of breach protecting networks, applications, services in cloud e
 - *Step 4: Create IAM users.*
 - *Step 5: Create AWS IAM roles.*
 - *Step 6: Enable AWS Organization SCP*
-# Chapter 4: Poneglyph Prowess: Charting the Cloud with Lucid Charts: Conceptual Diagram in Lucid Charts
+# Chapter 4: Poneglyph Prowess: Charting the Cloud with Lucid Charts: Logical Diagram in Lucid Charts
+
+Here is the logical diagram of Cruddur: https://lucid.app/lucidchart/8cf61cb5-4195-4012-833a-fb00cd542308/edit?viewport_loc=-977%2C-133%2C3636%2C1549%2C0_0&invitationId=inv_be9b62b0-686f-415a-9737-1a22ff3f4c6b
+
+![Cruddur Logical Diagram](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/2d2ce0c5-b87f-4de7-8bff-ab271726edb4)
+
+
+
