@@ -43,11 +43,39 @@ Here is the Conceptual design for the Cruddur app: https://lucid.app/lucidchart/
 
 ![Cruddur - Conceptual Diagram](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/f0863b9f-1354-41de-bae2-fe4d0551a895)
 
-# Chapter 5: Logical Logia: Conjuring Logic in the Cloud Seas: Logical Diagram in Lucid Charts
+# Chapter 5: Logical Logia: Conjuring Logic in the Cloud Seas - Logical Diagram in Lucid Charts
 
 Here is the logical diagram of the Cruddur app: https://lucid.app/lucidchart/8cf61cb5-4195-4012-833a-fb00cd542308/edit?viewport_loc=-977%2C-133%2C3636%2C1549%2C0_0&invitationId=inv_be9b62b0-686f-415a-9737-1a22ff3f4c6b
 
 
 ![Cruddur Logical Diagram](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/6fa81665-4b42-42c5-8021-d7aedb037cdd)
 
-# Chapter 6: Admin Admirals: Commanding Cloud Seas with Authority: Creating an Admin
+# Chapter 6: Admin Admirals: Commanding Cloud Seas with Authority - Creating an Admin
+
+Here, I created a IAM user admin with adminstrative access ad assigned it to a group.
+
+![iam user](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/72d5cc0c-6ffb-486f-a7f4-fb37d2d0014a)
+
+# Chapter 7: Cloudshell Conquest: Mastering Haki for Cloud Commands - Using Cloudshell
+
+Here, I learnt abpot how to use the AWS CloudShell.
+
+# Chapter 8: Key of Raftel: Unlocking Mysteries with Credentials - Generate Credentials
+
+Here, I generated the access keys and secret keys.
+
+# Chapter 9: CLI Pirates: Seafaring Adventures in Command-line Islands - Install CLI
+
+Here, I installed AWS CLI in the gitpod.
+
+# Chapter 10: The Golden Bell Alarm: Protecting Your Cloud Bounty - Creating a Billing Alarm
+
+Here, I created a billing alarm with CLI.
+![alarm](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/5682e7f4-8081-4b7e-9f98-acb89c0e9527)
+
+# Chapter 11: Budget Buccaneers: Plundering the Cloud for Savings - Creating a Budget
+
+Here, I created a budget using CLI.
+
+![budget via cli](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/7bf3cc73-0ffd-4621-b139-732a7e65822f)
+
