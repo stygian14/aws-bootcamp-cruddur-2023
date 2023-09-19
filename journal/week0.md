@@ -78,4 +78,3 @@ Here, I created a billing alarm with CLI.
 Here, I created a budget using CLI.
 
 ![budget via cli](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/7bf3cc73-0ffd-4621-b139-732a7e65822f)
-
