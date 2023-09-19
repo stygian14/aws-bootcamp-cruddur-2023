@@ -58,7 +58,7 @@ Here, I created a IAM user admin with adminstrative access ad assigned it to a g
 
 # Chapter 7: Cloudshell Conquest: Mastering Haki for Cloud Commands - Using Cloudshell
 
-Here, I learnt abpot how to use the AWS CloudShell.
+Here, I learnt about how to use the AWS CloudShell.
 
 # Chapter 8: Key of Raftel: Unlocking Mysteries with Credentials - Generate Credentials
 
