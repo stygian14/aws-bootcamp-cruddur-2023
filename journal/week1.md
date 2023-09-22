@@ -83,9 +83,6 @@ Here, I followed through the video to make a new .js & .css file for Notificatio
 
 # Chapter 9: The Grand React Notifications Adventure - Write a React Page for Notifications
 Here, I followed through the video to make a new .js & .css file for NotificationsActivities and connected it to the frontend.
-After adding the code, this was the result: 
-
-![5 open api frontend](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/5267f629-5898-4faa-9145-7f46598b533b)
 
 
 # Chapter 10: Harnessing the Power of Thunder - Run DynamoDB Local Container and ensure it works
