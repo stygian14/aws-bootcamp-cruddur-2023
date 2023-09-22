@@ -74,18 +74,25 @@ Here, I followed through the video to make changes to the open-api document and 
 # Chapter 7: A Pirate's Journal - Write a React Page for Notifications
 Here, I followed through the video to make a new .js & .css file for NotificationsActivities and connected it to the frontend.
 
+
 # Chapter 8: The Navigator's Guide - Write a Flask Backend Endpoint for Notifications
 ![3 docker front end](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/9b15f74d-f7f3-43e9-8059-785b27fb5caa)
 ![4 open api backend](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/35371f75-6735-4d7a-80f8-ff0fac5bbdb8)
 ![5 open api frontend](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/8996664c-abf7-4c8a-9bc7-b584ecd54290)
 
 
+# Chapter 9: The Grand React Notifications Adventure - Write a React Page for Notifications
+Here, I followed through the video to make a new .js & .css file for NotificationsActivities and connected it to the frontend.
+After adding the code, this was the result: 
 
-# Chapter 9: Harnessing the Power of Thunder - Run DynamoDB Local Container and ensure it works
+![5 open api frontend](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/5267f629-5898-4faa-9145-7f46598b533b)
+
+
+# Chapter 10: Harnessing the Power of Thunder - Run DynamoDB Local Container and ensure it works
 
 Here, I followed through the video in order to install DynamoDB - add the code to docker-compose.yaml file and made sure it is working.
 
-# Chapter 10: The Treasure Vault's Keeper - Run Postgres Container and ensure it works
+# Chapter 11: The Treasure Vault's Keeper - Run Postgres Container and ensure it works
 
 Here, I followed through the video in order to install Postgres - add the code to docker-compose.yaml file and made sure it is working.
 
