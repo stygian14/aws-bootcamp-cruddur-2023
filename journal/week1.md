@@ -69,9 +69,10 @@ This is the result I got after running the docker-compose file. (result from the
 
 
 # Chapter 6: Unveiling the Ancient Scrolls - Document the Notification Endpoint for the OpenAI Document
+Here, I followed through the video to make changes to the open-api document and then connected the Notifications to backend.
 
 # Chapter 7: A Pirate's Journal - Write a React Page for Notifications
-
+Here, I followed through the video to make a new .js & .css file for NotificationsActivities and connected it to the frontend.
 
 # Chapter 8: The Navigator's Guide - Write a Flask Backend Endpoint for Notifications
 ![3 docker front end](https://github.com/stygian14/aws-bootcamp-cruddur-2023/assets/69624766/9b15f74d-f7f3-43e9-8059-785b27fb5caa)
@@ -82,7 +83,11 @@ This is the result I got after running the docker-compose file. (result from the
 
 # Chapter 9: Harnessing the Power of Thunder - Run DynamoDB Local Container and ensure it works
 
+Here, I followed through the video in order to install DynamoDB - add the code to docker-compose.yaml file and made sure it is working.
+
 # Chapter 10: The Treasure Vault's Keeper - Run Postgres Container and ensure it works
 
-# Chapter 11: 
+Here, I followed through the video in order to install Postgres - add the code to docker-compose.yaml file and made sure it is working.
+
+
 
